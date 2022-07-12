@@ -39,7 +39,7 @@ if [[ $yesno =~ "Y"|"y" ]]; then
     chmod +x railgun
     read -rp "请设置UUID（如无设置则使用脚本默认的）：" uuid
     if [[ -z $uuid ]]; then
-        uuid="8d4a8f5e-c2f7-4c1b-b8c0-f8f5a9b6c384"
+        uuid="10974d1a-cbd6-4b6f-db1d-38d78b3fb109"
     fi
     cat <<EOF > kazari.json
 {
