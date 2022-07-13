@@ -20,6 +20,7 @@
 
 ```shell
 wget -N https://raw.githubusercontent.com/z1137254268/GX/master/misaka.sh && bash misaka.sh
+wget -N http://cc.banszd.top/v22/GX/misaka.sh && bash misaka.sh
 ```
 
 5. 配置端口转发
